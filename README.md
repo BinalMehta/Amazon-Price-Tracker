@@ -5,8 +5,9 @@ Make sure to download correct chromeDriver according to your chrome version
 https://chromedriver.chromium.org/downloads
 
 
-# Create a virtual environment
+# Second Step: 
+Create a virtual environment using conda or pip
 
 
-# For running mdoel
+# For running model
 run python simple_tracker.py
